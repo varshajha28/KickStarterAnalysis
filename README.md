@@ -11,7 +11,8 @@ Key Points and Insight based on the data:
 2.	 The plays with the goal range between $5000 - $19999 had a success rate of 50%.
 3.	The plays with the goal range between $20000 - $34999 had a decline up to 20% in success rate.
 4.	The plays with the goal range between $35000 -$44999 had an exponential increase in success rate of more than 60 %
-![](Images/OutcomeBasedOnGoals.PNG)
+
+![](Images/OutcomesBasedOnGoals.png)
 
 ### Conclusion:
 1.	Based on the above chart the goal amount for the plays up to $19999 have a success rate of more than 50% in the play category. We can increase the number plays in this goal range to benefit the campaign. The lower goal is more achievable and will have higher success rate (up to $4999). Hence, by increasing the population in this segment will in turn result in benefiting the campaign.   
@@ -23,7 +24,8 @@ The theater campaign data shown below includes all the subcategory “musical, p
 Key Points and Insight based on the data:
 1.	The number of successful theater campaign has been higher when they are launched between the month of April-August. May shows the highest number of successful campaigns being launched in this month.
 2.	 The number of failed campaigns went up between the months of Sep- Nov.
-![](Images/OutcomesBasedLaunchDate.PNG)
+
+![](Images/OutcomesBasedLaunchDate..png)
 
 ### Conclusion:
 1.	The duration between April – July are most favorable months for the theater campaign to be successful.
@@ -31,11 +33,11 @@ Key Points and Insight based on the data:
 
 ### Analysis of the Kickstarter Campaign’s outcome based on the Parent Category:
 
-![](Images/ParentCategoryOutcome.PNG)
+![](Images/ParentCategoryOutcome.png)
 
 ### Analysis of the Kickstarter Campaign’s outcome based on Musical:
 
-![](Images/GoalForMusical.PNG)
+![](Images/GoalForMusical.png)
 
 ### Overall Limitation:
 1.	The above graphs do not capture the length of the campaign along with its outcome and goal. 
